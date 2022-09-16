@@ -1,3 +1,3 @@
 # minishop
-This template is made with by Colorlib
+This template is made with ❤ by Colorlib
 Link adres https://colorlib.com
